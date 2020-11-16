@@ -2,6 +2,8 @@
 
 Alfred Workflow to Change Position of Mac Dock to bottom, right or left quickly. Support Alfred 2.x, 3.x, 4.x version.
 
+<br>
+
 ![mac-dock-demonstration-](mac-dock-demonstration-2.gif)
 
 ### How to Use
