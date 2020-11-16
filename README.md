@@ -2,5 +2,7 @@
 
 
 
-<video src="mac-dock-demonstration.mp4"></video>
+
+
+![mac-dock-demonstration-](mac-dock-demonstration-2.gif)
 
